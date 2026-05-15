@@ -39,8 +39,11 @@ Python, Pandas, Streamlit, Claude API. Outputs JSON and CSV.
 
 \`\`\`
 git clone https://github.com/Progress-aus/ai-dataset-analysis-agent
+
 cd ai-dataset-analysis-agent
+
 pip install -r requirements.txt
+
 streamlit run app.py
 \`\`\`
 
