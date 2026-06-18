@@ -51,7 +51,7 @@ You'll need a Claude API key set as an environment variable.
 
 ## About me
 
-I'm Progress Pandey, finishing a Bachelor of Information Technology (Business major) at Sydney International School of Technology and Commerce in June 2026. Looking for Junior BA / Data Analyst roles in Sydney.
+I'm Progress Pandey, Completed a Bachelor of Information Technology (Business major) at Sydney International School of Technology and Commerce in June 2026. Looking for Junior BA / Data Analyst roles in Sydney.
 
 - LinkedIn: [progress-pandey](https://www.linkedin.com/in/progress-pandey/)
 - Email: progresspandey299@gmail.com
