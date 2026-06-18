@@ -1,0 +1,19 @@
+Store_ID,Store_Name,Location,Store_Type,Quarter,Month,Month_Number,Year,Revenue_AUD,Units_Sold,Customer_Count,Avg_Transaction_AUD,Product_Category_Top,Discount_Percent,Online_Sales_Percent,Staff_Count,Customer_Satisfaction
+NIKE-SYD-001,Westfield Sydney,CBD,Flagship,Q2,April,4,2025,66152,553,1552,42.62,Footwear,4,27,9,4.1
+NIKE-SYD-002,Pitt Street Mall,City,Premium,Q2,April,4,2025,62502,755,2084,29.99,Footwear,7,35,10,4.2
+NIKE-SYD-003,Bondi Junction,Bondi,Standard,Q2,April,4,2025,86380,891,1970,43.85,Sportswear,9,29,14,4.9
+NIKE-SYD-004,Parramatta Westfield,Parramatta,Standard,Q2,April,4,2025,65729,673,1694,38.8,Footwear,10,27,9,4.3
+NIKE-SYD-005,Manly Beach Centre,Manly,Standard,Q2,April,4,2025,69395,777,1725,40.23,Footwear,4,27,9,4.8
+NIKE-SYD-006,Chatswood Chase,Chatswood,Standard,Q2,April,4,2025,65207,787,1761,37.03,Sportswear,18,26,10,4.7
+NIKE-SYD-001,Westfield Sydney,CBD,Flagship,Q2,May,5,2025,72872,707,1585,45.98,Apparel,16,26,9,4.1
+NIKE-SYD-002,Pitt Street Mall,City,Premium,Q2,May,5,2025,61846,637,1571,39.37,Sportswear,4,23,8,4.4
+NIKE-SYD-003,Bondi Junction,Bondi,Standard,Q2,May,5,2025,78189,683,1535,50.94,Footwear,17,24,14,4.2
+NIKE-SYD-004,Parramatta Westfield,Parramatta,Standard,Q2,May,5,2025,63449,551,1143,55.51,Sportswear,6,21,8,4.9
+NIKE-SYD-005,Manly Beach Centre,Manly,Standard,Q2,May,5,2025,73790,647,1401,52.67,Apparel,18,26,14,4.8
+NIKE-SYD-006,Chatswood Chase,Chatswood,Standard,Q2,May,5,2025,57128,713,1704,33.53,Apparel,12,33,15,4.1
+NIKE-SYD-001,Westfield Sydney,CBD,Flagship,Q2,June,6,2025,68560,577,1488,46.08,Sportswear,4,30,8,4.0
+NIKE-SYD-002,Pitt Street Mall,City,Premium,Q2,June,6,2025,65512,561,1419,46.17,Footwear,5,25,9,4.5
+NIKE-SYD-003,Bondi Junction,Bondi,Standard,Q2,June,6,2025,87517,978,2073,42.22,Sportswear,10,21,9,4.4
+NIKE-SYD-004,Parramatta Westfield,Parramatta,Standard,Q2,June,6,2025,68169,675,1980,34.43,Footwear,13,27,12,4.4
+NIKE-SYD-005,Manly Beach Centre,Manly,Standard,Q2,June,6,2025,74003,804,1862,39.74,Footwear,3,34,9,4.1
+NIKE-SYD-006,Chatswood Chase,Chatswood,Standard,Q2,June,6,2025,60576,668,1959,30.92,Footwear,10,31,12,4.1

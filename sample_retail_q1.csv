@@ -1,0 +1,19 @@
+Store_ID,Store_Name,Location,Store_Type,Quarter,Month,Month_Number,Year,Revenue_AUD,Units_Sold,Customer_Count,Avg_Transaction_AUD,Product_Category_Top,Discount_Percent,Online_Sales_Percent,Staff_Count,Customer_Satisfaction
+NIKE-SYD-001,Westfield Sydney,CBD,Flagship,Q1,January,1,2025,52296,312,1763,29.66,Footwear,12,19,9,4.5
+NIKE-SYD-002,Pitt Street Mall,City,Premium,Q1,January,1,2025,80741,344,2409,33.52,Apparel,6,15,9,4.2
+NIKE-SYD-003,Bondi Junction,Bondi,Standard,Q1,January,1,2025,78118,313,2349,33.26,Footwear,18,22,15,4.5
+NIKE-SYD-004,Parramatta Westfield,Parramatta,Standard,Q1,January,1,2025,45425,381,2065,22.0,Apparel,13,19,11,4.8
+NIKE-SYD-005,Manly Beach Centre,Manly,Standard,Q1,January,1,2025,67059,352,1389,48.28,Apparel,8,26,13,4.5
+NIKE-SYD-006,Chatswood Chase,Chatswood,Standard,Q1,January,1,2025,47847,535,2298,20.82,Footwear,17,17,12,4.7
+NIKE-SYD-001,Westfield Sydney,CBD,Flagship,Q1,February,2,2025,68700,595,1593,43.13,Sportswear,7,16,11,4.6
+NIKE-SYD-002,Pitt Street Mall,City,Premium,Q1,February,2,2025,50229,419,1406,35.72,Apparel,13,29,13,4.1
+NIKE-SYD-003,Bondi Junction,Bondi,Standard,Q1,February,2,2025,68283,407,1746,39.11,Sportswear,7,20,11,4.1
+NIKE-SYD-004,Parramatta Westfield,Parramatta,Standard,Q1,February,2,2025,69867,438,2340,29.86,Footwear,15,16,11,4.7
+NIKE-SYD-005,Manly Beach Centre,Manly,Standard,Q1,February,2,2025,65673,505,1748,37.57,Footwear,11,25,11,4.5
+NIKE-SYD-006,Chatswood Chase,Chatswood,Standard,Q1,February,2,2025,70928,534,1492,47.54,Apparel,9,22,12,4.6
+NIKE-SYD-001,Westfield Sydney,CBD,Flagship,Q1,March,3,2025,73077,598,2017,36.23,Apparel,12,19,15,4.1
+NIKE-SYD-002,Pitt Street Mall,City,Premium,Q1,March,3,2025,48087,356,1513,31.78,Sportswear,10,28,9,4.3
+NIKE-SYD-003,Bondi Junction,Bondi,Standard,Q1,March,3,2025,84052,539,2283,36.82,Apparel,5,18,12,4.6
+NIKE-SYD-004,Parramatta Westfield,Parramatta,Standard,Q1,March,3,2025,67293,357,1801,37.36,Apparel,10,29,8,4.8
+NIKE-SYD-005,Manly Beach Centre,Manly,Standard,Q1,March,3,2025,62261,556,1565,39.78,Sportswear,8,24,11,4.1
+NIKE-SYD-006,Chatswood Chase,Chatswood,Standard,Q1,March,3,2025,55587,576,2286,24.32,Footwear,15,30,8,4.1
